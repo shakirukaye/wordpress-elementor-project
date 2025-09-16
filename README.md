@@ -54,13 +54,15 @@ Gallery-slider:
 
 <img width="1893" height="721" alt="Screenshot 2025-09-16 222111" src="https://github.com/user-attachments/assets/f6d7e808-9f94-47fc-9686-638bbdb144e0" />
 
-Footer:
-
-<img width="1889" height="860" alt="Screenshot 2025-09-16 222232" src="https://github.com/user-attachments/assets/645d83c0-6312-44ca-b444-d96afc54a853" />
-<img width="1849" height="775" alt="Screenshot 2025-09-16 222214" src="https://github.com/user-attachments/assets/244bee7c-3619-4cb6-b873-4decd10971e8" />
-
 Features:
 
 <img width="1908" height="775" alt="Screenshot 2025-09-16 222153" src="https://github.com/user-attachments/assets/1872bc75-b20d-407b-80f1-cfeb14a6c313" />
 <img width="1919" height="871" alt="Screenshot 2025-09-16 222134" src="https://github.com/user-attachments/assets/ae6a26a5-a45d-4689-a88b-e7614df45270" />
+
+Footer:
+
+<img width="1849" height="775" alt="Screenshot 2025-09-16 222214" src="https://github.com/user-attachments/assets/244bee7c-3619-4cb6-b873-4decd10971e8" />
+<img width="1889" height="860" alt="Screenshot 2025-09-16 222232" src="https://github.com/user-attachments/assets/645d83c0-6312-44ca-b444-d96afc54a853" />
+
+
 
